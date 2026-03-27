@@ -12,7 +12,7 @@ all project files, code, designs, and documentation.
 -Shalom 
 
 ## Project Links
-- Figma: (link to be added)
+- Figma: https://www.figma.com/make/b83kZGGy43oRJmlMpSrFfT/Community-Help-App?p=f&t=wESH7B1k8WOOwAy5-0&preview-route=%2Fauth
 - Jira: (link to be added)
 
 ## Documentation
