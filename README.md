@@ -5,11 +5,11 @@ The project idea and objectives are currently under discussion. This repository 
 all project files, code, designs, and documentation.
 
 ## Team Members
-1.Yitayal Minale /n
-2.Yabibal Mengiste /n
-3. Oljira Mane /n
-4.Mosisa Abu /n
-5. Shalom / n
+1.Yitayal Minale 
+2.Yabibal Mengiste 
+3. Oljira Mane 
+4.Mosisa Abu
+5. Shalom 
 
 ## Project Links
 - Figma: (link to be added)
